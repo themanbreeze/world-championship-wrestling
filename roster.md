@@ -80,7 +80,7 @@
 - Ivan Koloff
 - Ole Anderson
 - Tully Blanchard
-- Tommy Rich
+- Eddie Gilbert
 - Magnum T.A.
 
 ## NJPW
@@ -104,6 +104,9 @@
 ---
 
 ### Notes :
+
+**Creative Goal**
+Deliver an era-authentic wrestling experience with versatile roster interchangeability. Enable the creation of different tag teams and stable variations, such as the Four Horsemen, Dangerous Alliance, or the Fabulous Freebirds, to accurately recreate historical events and match scenarios from the 1990–1992 WCW/NWA period.
 
 **Williams/Gordy in the AJPW Stable**
 Steve Williams and Terry Gordy were WCW Tag Team Champions during this era and were initially placed in Group 4. They were reassigned to the AJPW stable, which highlights wrestlers with 1980s NWA crossover, to maintain balance among stable sizes.
