@@ -113,6 +113,7 @@ Steve Williams and Terry Gordy were WCW Tag Team Champions during this era and w
 
 **Andre The Giant**
 In the early 1990s, Andre The Giant was near the end of his career and made only occasional guest appearances in WCW, while competing in approximately 90 matches for AJPW. As this ROM hack is inspired by the 1990 NES game World Championship Wrestling, Andre’s likeness serves as the in-game “WCW Master” boss character.
+
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/48976ec4-64c3-4caf-b5bd-29b411dcce8d" />
 
 **Bam Bam Bigelow**
