@@ -1,8 +1,11 @@
-# World Championship Wrestling: 1990–1992 Edition
+# World Championship Wrestling
 
 This is a **fan-made ROM hack** of *WCW/nWo Revenge* for the Nintendo 64, recreating the classic **WCW roster and feel from 1990–1992**.  
 
 The project focuses on **arcade-style action**, era-accurate wrestlers, and international stars from NWA, NJPW, and AJPW.  
+
+<img width="1024" height="768" alt="WCW - nWo  REVENGE-40" src="https://github.com/user-attachments/assets/7ee47c63-a271-4cb7-acda-48e66940e1af" />
+
 
 ---
 
