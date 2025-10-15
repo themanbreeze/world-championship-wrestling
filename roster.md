@@ -106,7 +106,6 @@
 ### Notes :
 
 **Creative Goal**
-
 Deliver an era-authentic wrestling experience with versatile roster interchangeability. Enable the creation of different tag teams and stable variations, such as the Four Horsemen, Dangerous Alliance, or the Fabulous Freebirds, to accurately recreate historical events and match scenarios from the 1990–1992 WCW/NWA period.
 
 **Williams/Gordy in the AJPW Stable**
