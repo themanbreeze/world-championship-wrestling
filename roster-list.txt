@@ -1,0 +1,82 @@
+01 - Ric Flair
+02 - Sting
+03 - Lex Luger
+04 - Ron Simmons
+05 - Big Van Vader
+06 - Sid Vicious
+07 - Rick Rude
+08 - Davey Boy Smith
+09 - Ricky Steamboat
+0A - Nikita Koloff
+0B - Barry Windham
+0C - Dustin Rhodes
+0D - Steve Austin
+0E - Paul Orndorff
+0F - Tom Zenk
+10 - Lord Steven Regal
+11 - Rick Steiner
+12 - Scott Steiner
+13 - Road Warrior Hawk
+14 - Road Warrior Animal
+15 - Arn Anderson
+16 - Larry Zybysko
+17 - Jerry Saggs
+18 - Brian Knobbs
+19 - Brian Pillman
+1A - Johnny B. Badd
+1B - Too Cold Scorpio
+1C - Marcus Bagwell
+1D - The Patriot
+1E - Scotty Flamingo
+1F - Shane Douglas
+20 - Brad Armstrong
+21 - Michael Hayes
+22 - Jimmy Garvin
+23 - Ricky Morton
+24 - Robert Gibson
+25 - Bobby Eaton
+26 - Stan Lane
+27 - Steve Armstrong
+28 - Tracy Smothers
+29 - El Gigante
+2A - Cactus Jack
+2B - Abdullah the Butcher
+2C - Diamond Dallas Page
+2D - Diamond Studd
+2E - Vinnie Vegas
+2F - PN News
+30 - Jake Roberts
+31 - Butch Reed
+32 - Greg Valentine
+33 - Junk Yard Dog
+34 - Kevin Sullivan
+35 - Mike Rotunda
+36 - Dusty Rhodes
+37 - Harley Race
+38 - Ivan Koloff
+39 - Ole Anderson
+3A - Tully Blanchard
+3B - Eddie Gilbert
+3C - Magnum T.A.
+3D - The Great Muta
+3E - Masahiro Chono
+3F - Jushin Liger
+40 - Tatsumi Fujinami
+41 - Kensuke Sasaki
+42 - Scott Norton
+43 - Bam Bam Bigelow
+44 -Stan Hansen
+45 -Terry Funk
+46 -Dory Funk Jr.
+47 -Steve Williams
+48 -Terry Gordy
+49 -Dan Spivey
+4A -Andre the Giant
+4B -Harley Race
+4C -Jim Cornette
+4D -Paul E. Dangerously
+4E -Diamond Dallas Page
+4F -Teddy Long  
+
+
+
