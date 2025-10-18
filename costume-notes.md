@@ -16,22 +16,22 @@ Trunks (Blue - Red - Yellow - )
 Kneepads (Blue - Red - Yellow - )
 Trim (Blue - Red - Yellow)
 
-Color 2 - Boot Main 
-White -> Red (Blue Attire) White (Yellow)
+Color 2 - Boot Main     
+White -> Red (Blue Attire) White (Yellow)    
 
-Attire 2 
-93 Resources (fueding with Austin)
-Default setup :
-Black Trunks - "The Natural" on the back in Yellow (Color 2)
-Yellow again (Try Black border if under 16 col).
-Yellow Boots w/ White Trim
-
-Color 1 -
-Trunks
-
-Color 2 - 
-All yellows.
-
-boot trim stays perm white.
-kneepad stays perm black.
+Attire 2     
+93 Resources (fueding with Austin)    
+Default setup :    
+Black Trunks - "The Natural" on the back in Yellow (Color 2)    
+Yellow again (Try Black border if under 16 col).    
+Yellow Boots w/ White Trim    
+    
+Color 1 -    
+Trunks    
+    
+Color 2 -     
+All yellows.    
+    
+boot trim stays perm white.    
+kneepad stays perm black.    
 
