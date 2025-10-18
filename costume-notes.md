@@ -2,6 +2,22 @@
 
 _just planning attires here_
 
+13. Steve Austin
+
+Attire 1 - Shorts With vibrant patterns.   
+<img width="882" height="621" alt="image" src="https://github.com/user-attachments/assets/c0ef99ef-a352-4ca7-96fd-971502e0bbf8" />
+
+Black open Kneepads with logo    
+White / White Boots    
+<img width="71" height="57" alt="image" src="https://github.com/user-attachments/assets/0820aefd-0615-4ec1-93f8-94c9f0c4f337" />
+
+
+
+
+
+
+
+
 012. Dustin Rhodes
 
 Attire 1    
