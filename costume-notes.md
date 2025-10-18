@@ -4,12 +4,12 @@ _just planning attires here_
 
 012. Dustin Rhodes
 
-Attire 1
-90/91 Resources
-Default setup : 
-Yellow Trunks - "Dustin Rhodes" on back in perm White
-Red Kneepads w/ logo (same as Koloff 15)
-White boots w/ Red Trim
+Attire 1    
+90/91 Resources    
+Default setup :     
+Yellow Trunks - "Dustin Rhodes" on back in perm White    
+Red Kneepads w/ logo (same as Koloff 15)    
+White boots w/ Red Trim    
 
 Color 1 - I need to get
 Trunks (Blue - Red - Yellow - )
