@@ -25,6 +25,8 @@ Default setup :
 Black Trunks - "The Natural" on the back in Yellow (Color 2)    
 Yellow again (Try Black border if under 16 col).    
 Yellow Boots w/ White Trim    
+
+aki yellow -> HSL + 11 / BC + 15/5
     
 Color 1 -    
 Trunks    
