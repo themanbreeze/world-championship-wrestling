@@ -17,7 +17,10 @@ Kneepads (Blue - Red - Yellow - )
 Trim (Blue - Red - Yellow)
 
 Color 2 - Boot Main     
-White -> Red (Blue Attire) White (Yellow)    
+White -> Red (Blue Attire) White (Yellow)   
+   + name text
+
+"Dustin" fit?
 
 Attire 2     
 93 Resources (fueding with Austin)    
