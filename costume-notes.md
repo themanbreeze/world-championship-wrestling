@@ -15,14 +15,20 @@ Attire 2    - Short Black Trunks
 Dragon Slayer on the back   
 C1 - Text / C2 Trunks + Kneepads
 
-White Boods with Black lacing    
+White Boots with Black lacing    
+
+
+Attire 3 - Hollywood Blondes    
+Star Trunks    
 
 
 
+----
 
-
-
-
+    
+    
+    
+    
 
 
 
