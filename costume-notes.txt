@@ -1,144 +1,98 @@
 Notepad for Attire Planning
 
-15. Paul Orndorff
-Attire 1 - 
-Blue Trunks
-"Mr. #1derful" Text in White
-Black Kneepads
-Silver & Black Boots
-
-Color 1 - Trunks + Silver (blue, black, etc)
-Color 2 - Name Separate
-
-Attire 2 - 
-White Trunks - Red Name
-Red Kneepads
-White Boots + Red Outline
-
-Color 1 - Trunks + Boots
-Color 2 - Name + Kneepads + Boot Outline
-
-
-------------------------------
-
-
-
-14. Steve Austin
-
-Attire 1 - Stunning Steve
-Black Short Tights
-Colorful Pattern
-Try Both - Pastels 1st, Yellow/Red 2nd
-!Upper Leg Palette limits
-Black kneepads w/ Logo
-White / White Boots
-https://www.youtube.com/watch?v=wm7qxBqJDS0
-
-Attire 2 - Early Pillman Tagteam
-Black Trunks + Pattern Front / AUSTIN back
-NO KNEE PADS
-Calf-high White/White Boots
-https://www.youtube.com/watch?v=FWyMhAd-CVk
-
-Attire 3 - Hollywood Blondes
-Black Trunks - 3 Star front + 1 star back
-Kneepads
-White Boots with BLACK laces + Tongue + Star
-
-Attire 4 ???
-Version of 1, but long tights?
-
-
-------------------------------
-
-
-
-13. Dustin Rhodes 
+Brian Pillman
 
 Attire 1
-90/91 Resources
-Default setup :
-Yellow Trunks - "Dustin Rhodes" on back in perm White
-Red Kneepads w/ logo (same as Koloff 15)
-White boots w/ Red Trim
+Bengal Pattern
 
-Color 1 - I need to get Trunks (Blue - Red - Yellow - ) Kneepads (Blue - Red - Yellow - ) Trim (Blue - Red - Yellow)
+Orange - Black
+Color 1 - Orange (Blue/Purple, etc)
+Color 2 - Black
 
-Color 2 - Boot Main
-White -> Red (Blue Attire) White (Yellow)
-
-name text
-"Dustin" fit?
-
-Attire 2
-93 Resources (fueding with Austin)
-Default setup :
-Black Trunks - "Dustin Rhodes" on the back in Yellow (Color 2)
-Yellow again (Try Black border if under 16 col).
-Yellow Boots w/ White Trim
-
-aki yellow -> HSL + 11 / BC + 15/5
-
-Color 1 -
-Trunks
-
-Color 2 -
-All yellows.
-
-boot trim stays perm white.
-kneepad stays perm black.
-------
-https://www.youtube.com/watch?v=DZeEY6D_fg0
+White Wrist Bands
+Black Kneepads - Koloff Knee Top - Austin 1 lower leg
+Short White Boots
 
 
 
-------------------------------
-
-12. Barry Windham
-11. Nikit Koloff
-10. Ricky Steamboat
-
-------------------------------
-
-07. Rick Rude
-Save for later - Airbrushed tights- 256 pal?
-
-------------------------------
-06. Sid Vicious
-Attire 1 - Trunks
-Solid Trunks (Luger)
-Kneepads + Black back padding
-White underboot
-Long Black/Black Boots
-
-C1 - Trunks (red/red, blue, blue, etc)
-C2 - Kneepads
-
-Attire 2 - Trunks + Elbow
-Same as #1, but with long left Elbow pad
-
-Attire 3 - Wrestling Singlet
-Red Singlet
-Red Kneepads
-Black underpad
-Same boots as #1
-
-C1 - Singlet + Kneepads
-~ Black Variant
-
-------------------------------
-
-03. Lex Luger
-02. Sting
-01. Ric Flair
 
 
-+++++++++++++++
-Body Size : Large
-
-04. Ron Simmons
 
 
-+++++++++++++++
-Body Size : Fat
-05. Big Van Vader
+
+
+----
+
+Ric Flair
+- Trunks A
+- Trunks B
+- Black Scorpion
+Sting
+- Surfer 1
+- Surfer 2
+- Great American Bash
+- Vertical Scorpion
+- Stinger Pastel
+Lex Luger
+- Trunks
+Ron Simmons
+- Diamond Pattern
+- Split Diamond Pattern
+- Tomahawk Pride
+- Doom
+Big Van Vader
+- Black w/ Red 
+- Black W/ Red + Angled Singlet
+- NJPW Attire
+- NJPW Attire w/o Top
+Sid Vicious
+- Trunks A
+- Trunks w/ Elbow Pad
+- Singlet
+Rick Rude
+*** Clash of the Champions
+*** Flag
+*** Flair / Fifi
+*** Logos
+Davey Boy Smith
+*** 
+***
+Ricky Steamboat
+- Green Tights
+*** Dragon Tights
+Nikita Koloff
+- Black Singlet
+- Soviet Singlet
+*** CCCP Singlet?
+Barry Windham
+- Trunks A
+- Trunks B
+Dustin Rhodes
+- Trunks A
+- Trunks B
+Steve Austin
+- 90s Pattern Shorts
+- Purple Pattern Trunks
+- Hollywood Blondes
+- Colored AUSTIN Trunks
+Paul Orndorff
+- Trunks A
+- Trunks B
+Paul Roma
+- Trunks A
+- Pretty Wonderful Trunks
+Tom Zenk
+- Zman Trunks
+- Trunks w/ Pattern
+Lord Steven Regal
+- Blue/Red Trunks
+
+Brian Pillman
+Johnny B. Badd
+Too Cold Scorpio
+Marcus Bagwell
+The Patriot
+Scotty Flamingo
+Shane Douglas
+Brad Armstrong
+
