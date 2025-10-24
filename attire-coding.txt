@@ -256,7 +256,7 @@ Wrestling Trunks: C1 Trunks Bot | C2 Trunks Top + Kneepads
 Body Shape : 0002 / Large
 
 001. Ron Simmons – Attire 1
-Diamond Pattern
+Diamond Pattern : C1 Tights | C2 Red Pattern
 001305EF 05F00575 057F0575 058005F1
 05F205EF 05EE05F1 05F40575 057B0575
 057C0593 05940591 059205F5 05F605EF
@@ -264,7 +264,7 @@ Diamond Pattern
 057C0591 05920000	
 
 002. Ron Simmons – Attire 2			
-Split Tights + Diamond Pattern
+Split Tights: C1 Right | C2 Left + Diamond Patter
 00130595 05960575 057F0575 058005F7
 05F80595 059805F3 05BB0575 057B0575
 057C0593 05940591 059205F9 05FA0595
@@ -272,7 +272,7 @@ Split Tights + Diamond Pattern
 057C0591 05920000
 
 003. Ron Simmons - Attire 3
-Tomahawk “PRIDE”
+Tomahawk “PRIDE”: C1: Tights | C2 Text
 001305FB 05FC0575 057F0575 05800601
 060205FB 05FE05F3 05BB0575 057B0589
 058D0593 05940591 05920601 05FD05FF
@@ -280,12 +280,40 @@ Tomahawk “PRIDE”
 058D0591 05920000
 
 004. Ron Simmons - Attire 4
-DOOM Tights
+DOOM Tights: C1 "D" Boot logo
 00130603 06040575 057F0575 05800603
 06050603 06060603 06070575 057B0575
 057C059B 059C0591 05920603 06080603
 06060603 0607059B 059C0575 057B0575
 057C0591 05920000
+
+
+-------------------------------------------
+
+Body Shape : 0003 / Extra Large
+
+
+-------------------------------------------
+
+Body Shape : 0004 / Fat
+
+001. Big Van Vader - Attire 1
+Black w/ Red Stripe: C1 Red
+00B00699 069A069B 069C069D 069E069F
+06A006A1 06A206A3 06A406A5 06A606A5
+06A706A5 06A80575 0585069F 06A906A1
+06AA06A3 06A406A5 06AE06A5 06AB06A5
+06AC0575 05A40000
+
+002. Big Van Vader - Attire 2 
+Wrestling B
+Black w/ Red Triangle: C1 Red
+
+003. Big Van Vader - Attire 3
+Full NJPW Attire: C1 Red
+
+004. Big Van Vader - Attire 4
+Topless NJPW Attire: C1 Red
 
 
 
