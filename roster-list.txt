@@ -14,22 +14,22 @@
 0E - Paul Orndorff
 0F - Tom Zenk
 10 - Lord Steven Regal
-11 - Rick Steiner
-12 - Scott Steiner
-13 - Road Warrior Hawk
-14 - Road Warrior Animal
-15 - Arn Anderson
-16 - Larry Zybysko
-17 - Jerry Saggs
-18 - Brian Knobbs
-19 - Brian Pillman
-1A - Johnny B. Badd
-1B - Too Cold Scorpio
-1C - Marcus Bagwell
-1D - The Patriot
-1E - Scotty Flamingo
-1F - Shane Douglas
-20 - Brad Armstrong
+11 - Brian Pillman
+12 - Johnny B. Badd
+13 - Too Cold Scorpio
+14 - Marcus Bagwell
+15 - The Patriot
+16 - Scotty Flamingo
+17 - Shane Douglas
+18 - Brad Armstrong
+19 - Rick Steiner
+1A - Scott Steiner
+1B - Road Warrior Hawk
+1C - Road Warrior Animal
+1D - Arn Anderson
+1E - Larry Zybysko
+1F - Jerry Sags
+20 - Brian Knobbs
 21 - Michael Hayes
 22 - Jimmy Garvin
 23 - Ricky Morton
