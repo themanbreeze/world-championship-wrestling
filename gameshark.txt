@@ -1,0 +1,9 @@
+Gameshark Codes used in ROM hack dev 
+personal notes
+
+
+Stop Moving
+/CPU = P1 Control
+D00F9D37 0040
+800FA0E7 0040
+
